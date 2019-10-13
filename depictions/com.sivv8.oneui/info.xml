@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Samsung OneUI Themes for Jailbroken Users</description>
+		<description>Samsung OneUI Themes</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Add Mask | It doesn't work</change>
 	</changelog>
 	<links></links>
 </package>
